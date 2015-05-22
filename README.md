@@ -6,8 +6,33 @@ To use it just make sure the tools directory is in the same directory as your pr
 ###Factors.java
 
 <code>getFactors(int n)</code> returns vector of all factors (non proper) of n.
+
 <code>getFactors(int n, true)</code> returns vector of all proper divisors of n.
+
 <code>getPrimes(int n)</code> returns array of all prime numbers <= n.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <code>isPrime(int n)</code> returns true if n is prime, else false.
 
 
