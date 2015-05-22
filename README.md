@@ -39,7 +39,7 @@ To use it just make sure the tools directory is in the same directory as your pr
 
 <code>array(T[] arr)</code> prints T array
 
-<code>triangle(int[][] t, int[] path)</code> prints a triangle of numbers <i>t</t>, with an index path <i>path</i> highlighted
+<code>triangle(int[][] t, int[] path)</code> prints a triangle of numbers <i>t</i>, with an index path <i>path</i> highlighted
 
 
 
