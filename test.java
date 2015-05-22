@@ -1,7 +1,7 @@
 import tools.*;
 class test {
 	public static void main(String[] args){
-		int n = (args.length > 0)?Integer.valueOf(args[0]):10;
+		int n = (args.length > 0)?Integer.valueOf(args[0]):4;
 		int[] narr = {1,2,3,4};
 		int[][] narrarr = {narr,narr,narr};
 		String[] sarr = {"b","d","c","a"};
