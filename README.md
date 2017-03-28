@@ -3,7 +3,7 @@
 To use it just make sure the tools directory is in the same directory as your program and
 <code>import tools.*;</code>
 
-###Factors.java
+#### Factors.java
 
 <code>getFactors(int n)</code> returns vector of all factors (non proper) of n.
 
@@ -15,7 +15,7 @@ To use it just make sure the tools directory is in the same directory as your pr
 
 
 
-####List.java
+#### List.java
 
 <code>binaryCount(int n)</code> returns array of every binary number <= n.
 
@@ -25,7 +25,7 @@ To use it just make sure the tools directory is in the same directory as your pr
 
 
 
-###Print.java
+### Print.java
 
 <code>s(T s)</code> literally <code>System.out.print(s)</code>
 
@@ -43,7 +43,7 @@ To use it just make sure the tools directory is in the same directory as your pr
 
 
 
-###Sort.java
+### Sort.java
 
 <code>swap(T[],int i, int j)</code> returns a T array with elements i and j switched
 
@@ -67,7 +67,7 @@ To use it just make sure the tools directory is in the same directory as your pr
 
 
 
-###Timer.java
+### Timer.java
 
 <code>Timer()</code> creates new timer object
 
